@@ -138,7 +138,7 @@ h1 {
 }
 
 .header__content {
-    background: url(../images/header_bg.jpg) no-repeat center /cover;
+    background: url(../images/header_back.jpg) no-repeat center /cover;
 }
 
 .header__content-title {
@@ -147,7 +147,7 @@ h1 {
     font-family: var(--ps400);
     font-size: 60px;
     margin-bottom: 50px;
-    background: linear-gradient(30deg, red, blue, purple);
+    background: white;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
